@@ -16,6 +16,11 @@
     --main-color: #ee325a;
 }
 
+html {
+    scroll-behavior: smooth;
+
+}
+
 
 body {
     background-image: url(bg.png);
