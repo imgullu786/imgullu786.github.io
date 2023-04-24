@@ -373,6 +373,10 @@ span {
         flex-direction: column-reverse;
     }
 
+    .home-content {
+        padding: 4rem;
+    }
+
     .home img {
         width: 70wv;
         margin-bottom: 1rem;
